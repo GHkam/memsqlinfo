@@ -1,0 +1,2 @@
+# memsqlinfo
+memsqlinfo.sh
